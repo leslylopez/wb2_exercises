@@ -6,5 +6,6 @@ let tip = 12.00;
 //do calculations for variables above
 let totalDue = foodCost + tax + tip;
 //output the results to the connsole
-
+console.log ("food cost is " + foodCost + " and tax is " + tax);
+console.log ("tip is " + tip);
 console.log ("the total due is " + totalDue);
