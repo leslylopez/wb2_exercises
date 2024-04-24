@@ -8,5 +8,6 @@ let areaOfRectangle = width * length;
 
 //output
 
-console.log = ("The area of the rectangle is " * areaOfRectangle);
+console.log ("The area of the rectangle is " + areaOfRectangle);
+
 
