@@ -5,8 +5,8 @@
 // input variables for calculations
 
 //this is the hourly rate for the employee
-let payRate = 12.50;
-let hoursWorked = 45;
+let payRate = 25;
+let hoursWorked = 40;
 
 //determine how many hours are normal hours vs overtime hours
  
